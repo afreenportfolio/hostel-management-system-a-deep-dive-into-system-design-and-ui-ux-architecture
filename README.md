@@ -50,7 +50,7 @@ Human-Centered Design: Creating interfaces that reduce user error and cognitive 
 - Evaluate the Schema: Review the database descriptions to understand the relational mapping.
 - System Design Reference: Use this as a blueprint for implementing your own administrative management systems.
 
-License
+## License
 - MIT License
 
 - ![Documentation](https://img.shields.io/badge/Type-Project%20Report-blue)
