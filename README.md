@@ -53,5 +53,5 @@ Human-Centered Design: Creating interfaces that reduce user error and cognitive 
 ## License
 - MIT License
 
-- ![Documentation](https://img.shields.io/badge/Type-Project%20Report-blue)
-- ![Status](https://img.shields.io/badge/Status-Documentation%20Complete-green)
+- ![Type](https://img.shields.io/badge/Type-Database_Project-purple)
+- ![Status](https://img.shields.io/badge/Status-Legacy_Prototype-lightgrey)
